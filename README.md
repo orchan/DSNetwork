@@ -6,5 +6,5 @@
 To install DSNetwork  using CocoaPods, include the following in your Podfile
 
 ```ruby
-pod 'DSNetwork', '~> 1.0.0'
+pod 'DSNetwork', '~> 0.2.0'
 ```
