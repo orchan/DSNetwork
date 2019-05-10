@@ -1,0 +1,6 @@
+framework module DSNetwork {
+  umbrella header "DSNetwork.h"
+
+  export *
+  module * { export * }
+}
